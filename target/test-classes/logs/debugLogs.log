@@ -1,0 +1,6 @@
+16:29:41.716 DEBUG AUTOMATION - Inicializando el Driver
+16:29:44.522 DEBUG AUTOMATION - Maximizando la pantalla
+16:29:44.754 DEBUG AUTOMATION - Borrando las cookies
+16:29:44.806 INFO  AUTOMATION - Navegar a la página
+16:29:45.918 INFO  AUTOMATION - Verificando la URL
+16:29:45.928 DEBUG AUTOMATION - Deteniendo el Driver

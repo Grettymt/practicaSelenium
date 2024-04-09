@@ -1,0 +1,8 @@
+16:38:28.375 DEBUG AUTOMATION - Inicializando el Driver
+16:38:31.189 DEBUG AUTOMATION - Maximizando la pantalla
+16:38:31.339 DEBUG AUTOMATION - Borrando las cookies
+16:38:31.384 INFO  AUTOMATION - Navegar a Internet heroku app
+16:38:32.724 INFO  AUTOMATION - Navegar a GitHub
+16:38:33.031 INFO  AUTOMATION - Regresando a la página anterior
+16:38:40.186 INFO  AUTOMATION - Verificando la URL
+16:38:40.195 DEBUG AUTOMATION - Deteniendo el Driver
