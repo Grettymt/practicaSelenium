@@ -1,4 +1,5 @@
-16:38:31.384 INFO  AUTOMATION - Navegar a Internet heroku app
-16:38:32.724 INFO  AUTOMATION - Navegar a GitHub
-16:38:33.031 INFO  AUTOMATION - Regresando a la página anterior
-16:38:40.186 INFO  AUTOMATION - Verificando la URL
+17:02:19.526 INFO  AUTOMATION - Nevegando a la página
+17:02:20.589 INFO  AUTOMATION - Escribiendo en el username
+17:02:20.722 INFO  AUTOMATION - Escrubiendo en el password
+17:02:20.854 INFO  AUTOMATION - Clickeando el botón del login
+17:02:20.991 INFO  AUTOMATION - Verificando el mensaje de error

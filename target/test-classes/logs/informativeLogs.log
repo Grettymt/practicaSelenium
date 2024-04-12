@@ -1,2 +1,5 @@
-16:29:44.806 INFO  AUTOMATION - Navegar a la página
-16:29:45.918 INFO  AUTOMATION - Verificando la URL
+16:56:10.702 INFO  AUTOMATION - Nevegando a la página
+16:56:11.887 INFO  AUTOMATION - Escribiendo en el username
+16:56:12.078 INFO  AUTOMATION - Escrubiendo en el password
+16:56:12.218 INFO  AUTOMATION - Clickeando el botón del login
+16:56:12.344 INFO  AUTOMATION - Verificando el mensaje de error
